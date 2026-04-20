@@ -1,1 +1,11 @@
-# repo-template
+
+  # Maaaaaax jump
+
+  This is a code bundle for Maaaaaax jump. The original project is available at https://www.figma.com/design/ByRaGa1BipcGRK56ttpCxR/Maaaaaax-jump.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
